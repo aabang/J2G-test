@@ -1,8 +1,8 @@
 ## Single-handedly taking over the game like I had an actual hand missing
 
-I am a ![Sex Robot](/assets/sexrobotdance.gif)
+I am a [Sex Robot](/assets/sexrobotdance.gif)
 
-I like ![Don Hertzfeldt](/assets/clouds.jpg)
+I like [Don Hertzfeldt](/assets/clouds.jpg)
 
 You can use the [editor on GitHub](https://github.com/aabang/J2G-test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
