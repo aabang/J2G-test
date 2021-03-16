@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Single-handedly taking over the game like I had an actual hand missing
+
+I am a [Sex Robot](https://github.com/aabang/J2G-test/assets/sexrobotdance.gif)
+
+I like [Don Hertzfeldt](https://github.com/aabang/J2G-test/assets/clouds.jpg)
 
 You can use the [editor on GitHub](https://github.com/aabang/J2G-test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
